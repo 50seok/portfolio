@@ -71,7 +71,16 @@
 
 <br>
 
+# 🎞 Youtube
+
+[![DopaCheck 시연 영상](https://img.youtube.com/vi/v-mCKvA6tYQ/0.jpg)](https://youtu.be/v-mCKvA6tYQ)
+
+▶️ [영상 보기](https://youtu.be/v-mCKvA6tYQ)
+
+<br>
+
 # 📞 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dhdudtjr661@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/50seok)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:dhdudtjr61@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/50seok/portfolio)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtu.be/v-mCKvA6tYQ)
