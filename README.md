@@ -73,7 +73,7 @@
 
 # 🎞 Youtube
 
-[![DopaCheck 시연 영상](https://img.youtube.com/vi/v-mCKvA6tYQ/0.jpg)](https://youtu.be/v-mCKvA6tYQ)
+[![DopaCheck 시연 영상](https://img.youtube.com/vi/v-mCKvA6tYQ/maxresdefault.jpg)](https://youtu.be/v-mCKvA6tYQ)
 
 ▶️ [영상 보기](https://youtu.be/v-mCKvA6tYQ)
 
